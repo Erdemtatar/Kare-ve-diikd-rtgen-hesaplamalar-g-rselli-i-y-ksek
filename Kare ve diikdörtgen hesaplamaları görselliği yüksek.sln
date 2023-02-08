@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kare ve diikdörtgen hesaplamaları görselliği yüksek", "Kare ve diikdörtgen hesaplamaları görselliği yüksek.csproj", "{C06946B7-06B1-41BB-B6C3-8737EB4907DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06946B7-06B1-41BB-B6C3-8737EB4907DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06946B7-06B1-41BB-B6C3-8737EB4907DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06946B7-06B1-41BB-B6C3-8737EB4907DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06946B7-06B1-41BB-B6C3-8737EB4907DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F708DC7F-979D-4CDA-B077-FAAE2B15718C}
+	EndGlobalSection
+EndGlobal
